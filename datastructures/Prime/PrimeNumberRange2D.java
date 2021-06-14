@@ -10,8 +10,6 @@
 
 package com.bridgelabz.datastructure;
 
-import com.bridgelabz.utility.DataStructureUtility;
-
 public class PrimeNumberRange2D {
 
 	public static void main(String[] args) {

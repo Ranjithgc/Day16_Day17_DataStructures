@@ -10,9 +10,6 @@
 
 package com.bridgelabz.datastructure;
 
-import com.bridgelabz.handler.StackImplementUsingLinkedList;
-import com.bridgelabz.utility.DataStructureUtility;
-
 public class PrimeAnagramUsingStack {
 
 	public static void main(String[] args) {

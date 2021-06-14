@@ -11,8 +11,6 @@
 
 package com.bridgelabz.datastructure;
 
-import com.bridgelabz.utility.DataStructureUtility;
-
 public class PrimeAnagramRange2d {
 
 	public static void main(String[] args) {

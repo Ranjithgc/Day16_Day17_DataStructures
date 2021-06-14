@@ -10,9 +10,6 @@
 
 package com.bridgelabz.datastructure;
 
-import com.bridgelabz.handler.QueueImplementedUsingLinkedList;
-import com.bridgelabz.utility.DataStructureUtility;
-
 public class PrimeAnagramUsingQueue {
 
 	public static void main(String[] args) {
